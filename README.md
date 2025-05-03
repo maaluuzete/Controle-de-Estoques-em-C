@@ -50,7 +50,6 @@ Este projeto possui a seguinte estrutura:
     
 ```
 * `controledeestoqueemc` contém a `main.c` que contém o código fonte do estoque, e o arquivo `estoque.txt` utilizado para manter os dados dos itens registrados.
-* `assets` contém todos os arquivos de mídia ou de informação usados no projeto.
 * Este arquivo é o próprio `README.md`. Ele tem informações sobre o projeto.
 * `LICENSE` contém toda a licença do projeto.
 ## Licença
