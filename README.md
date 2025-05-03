@@ -22,7 +22,7 @@ Item adicionado com sucesso!
 ```
 
 ## Instalação e Pré-requisitos
-Para compilar e executar a calculadora em C, é necessário ter o compilador GCC (GNU Compiler Collection) instalado em seu sistema. Abaixo, estão as instruções resumidas para os principais sistemas operacionais:
+Para compilar e executar o estoque em C, é necessário ter o compilador GCC (GNU Compiler Collection) instalado em seu sistema. Abaixo, estão as instruções resumidas para os principais sistemas operacionais:
 - **Windows**
   - Baixe o MinGW-w64:
   Acesse a página oficial do MinGW-w64 e baixe o instalador apropriado para o seu sistema: [MinGW-w64](https://www.mingw-w64.org)
